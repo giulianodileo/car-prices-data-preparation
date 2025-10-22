@@ -27,19 +27,15 @@ The notebook concludes with a clean dataset ready for modeling and further analy
 ### Repository Structure
 
 car-prices-data-preparation/
-│
-├── data/
-│ ├── raw/ # Original dataset
-│ └── processed/ # Cleaned dataset exported from the notebook
-│
-├── notebooks/
-│ └── 01_car_prices_preprocessing.ipynb
-│
-├── docs/
-│ └── dataset_description.md
-│
-├── requirements.txt
-└── README.md
+- data/
+  - raw_cars_dataset.csv # Original dataset
+  - cars-processed.csv   # Cleaned dataset exported from the notebook
+- notebooks/
+  - car_prices_preprocessing.ipynb
+- docs/
+  - dataset-description.md
+- requirements.txt
+- README.md
 
 
 ---
