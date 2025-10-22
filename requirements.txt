@@ -1,0 +1,15 @@
+# Core dependencies
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine learning and preprocessing
+scikit-learn==1.5.2
+statsmodels==0.14.3
+
+# Notebook and testing utilities (optional, but used)
+nbresult==0.0.7
+jupyter==1.1.1
